@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="post">
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+
+  <div class="post-content">
+	{{ $type := .Type }}
+	{{ range .Data.Terms.ByCount }}
+	{{ $name := .Name }}
+	{{ $count := .Count }}
+	<ul>
+		{{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+		<li>{{ $count }} :: <a href="{{ .Permalink }}"> {{ $name }}</a></li>
+  		{{ end }}
+  	</ul>
+	{{ end }}
+  </div>
+</div>
+{{ end }}
