@@ -3,7 +3,6 @@ title: What's Up with Things?
 date: "2018-08-13"
 tags: 
 - life
-- site-news
 categories: 
 - personal
 ---

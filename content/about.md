@@ -14,7 +14,7 @@ random times on my Twitch channel, and you can see what projects I'm working on 
 <ul>
 <li>Twitter: [justxanny][2]</li>
 <li>Twitch: [endperform][4]</li>
-<li>Gitlab: [endperform][6]</li>
+<li>Github: [endperform][6]</li>
 <li>Instagram: [justxanny][3]</li>
 
 
@@ -24,4 +24,4 @@ random times on my Twitch channel, and you can see what projects I'm working on 
 [3]: https://instagram.com/justxanny
 [4]: https://twitch.tv/endperform
 [5]: https://golang.org/
-[6]: https://gitlab.com/endperform
+[6]: https://github.com/endperform
