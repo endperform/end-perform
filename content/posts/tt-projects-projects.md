@@ -1,5 +1,5 @@
 +++
-title = "Tuesday Tidbits: Projects!"
+title = "Tuesday Tidbits - Projects!"
 date = "2019-11-12"
 tags = ["tuesday-tidbits", "projects"]
 +++

@@ -15,8 +15,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "endperform.com"
-    subtitle = "cat /dev/random"
+    title = "end-perform.com"
+    subtitle = "A Geek with a Keyboard"
     keywords = ""
     copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> &nbsp; 100% Geek Powered :: Generated with Hugo'
     menuMore = "Show more"
