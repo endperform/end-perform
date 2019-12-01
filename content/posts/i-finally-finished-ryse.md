@@ -1,9 +1,7 @@
 ---
 title: 'I Finally Finished: Ryse Son of Rome'
 tags: 
-- pc-gaming
 - i-finally-finished
-categories: 
 - gaming
 date: "2017-02-15"
 ---

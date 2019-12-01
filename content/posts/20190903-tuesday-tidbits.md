@@ -4,7 +4,6 @@ date: 2019-09-03 23:00:00
 tags:
 - tuesday-tidbits
 - wrestling
-categories:
 - tech
 ---
 ### AEW's All Out Event Happened

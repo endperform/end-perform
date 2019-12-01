@@ -1,8 +1,6 @@
 ---
 title: Con Season Is Coming
 date: 2018-04-04 15:04:31
-categories:
-- geekery
 tags:
 - conventions
 - rant

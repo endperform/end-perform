@@ -1,8 +1,6 @@
 ---
 title: 'Steam on Linux: An Experiment'
 tags: 
-- pc-gaming
-categories: 
 - gaming
 date: "2017-03-20"
 ---

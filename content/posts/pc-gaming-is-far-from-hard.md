@@ -2,8 +2,6 @@
 title: PC Gaming Is Far From Hard
 tags: 
 - opinion
-- pc-gaming
-categories: 
 - gaming
 date: 2016-07-13
 ---

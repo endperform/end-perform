@@ -3,7 +3,6 @@ title: Back to Linux
 date: 2019-07-12 00:12:54
 tags:
 - linux
-categories:
 - tech
 ---
 On Monday, I wiped my main drive of Windows and installed Linux (Arch, if you'd like specifics) after taking a couple of weeks to do some research with regards to what I would miss by moving to Linux as my main operating system. Since others may be interested in what I ended up doing, I figured I would write about how I went about this.

@@ -4,7 +4,6 @@ date: 2019-06-05 23:43:47
 tags:
 - privacy
 - security
-categories:
 - tech
 ---
 *Sorry for the long break in posts, life happens. :)*  

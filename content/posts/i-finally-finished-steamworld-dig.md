@@ -1,10 +1,8 @@
 ---
 title: 'I Finally Finished: Steamworld Dig'
 date: 2018-01-29
-categories:
-- gaming
 tags:
-- pc-gaming
+- gaming
 - i-finally-finished
 ---
 I've had this game in my Steam library for some time now, and I finished my first playthough of it. So what is it? The developers outline it pretty well:  

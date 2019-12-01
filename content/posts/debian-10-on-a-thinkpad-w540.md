@@ -3,8 +3,8 @@ title: Debian 10 on a Thinkpad W540
 date: 2019-10-25 09:35:00
 tags:
 - linux
-categories:
 - tech
+- thinkpad
 ---
 I'm a fan of the older Thinkpads. They work, they're not super-expensive and they fit my needs perfectly. My current Thinkpad is the following:
 

@@ -1,9 +1,8 @@
 ---
 title: Too Many Passwords Is No Excuse
 date: 2017-12-04
-categories: 
-- tech
 tags: 
+- tech
 - security
 ---
 We all use passwords every day (well, or have passwords stored somewhere that get used). Gmail, Instagram, Facebook, Tumblr, and on and on all have their own password. What's that, you're using the same password? That's not a good idea, and here's why. Someone breaks into your Gmail with your username and password. Now, they start attacking some of your other accounts using that same password. You've pretty much given them a master key to your digital life if you do that, so let's look at how we can fix that, shall we?

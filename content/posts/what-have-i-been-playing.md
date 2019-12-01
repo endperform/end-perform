@@ -1,8 +1,6 @@
 ---
 title: What Have I Been Playing?
 tags: 
-- pc-gaming
-categories: 
 - gaming
 date: "2016-12-11"
 ---

@@ -2,10 +2,7 @@
 title: 'My Favorites: Penny Underbust'
 date: 2016-08-15
 tags: 
-- content-creation
-- my-favorites
-categories: 
-- geekery
+- opinion
 ---
 Welcome to the first edition of **My Favorites**, a weekly post about a favorite game, movie, personality, cosplayer, (you get the idea). This week, I wanted to talk about one of my favorite Youtubers, [Penny Underbust, aka Plunder Bunny][1]  
 
