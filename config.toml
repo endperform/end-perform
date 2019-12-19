@@ -40,3 +40,7 @@ paginate = 5
         identifier = "tags"
         name = "/tags"
         url = "/tags"
+      [[languages.en.menu.main]]
+	identified = "friends"
+	name = "/friends"
+	url = "/friends"
