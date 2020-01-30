@@ -3,7 +3,7 @@ title: "2019 Goals"
 date: 2019-01-23
 draft: false
 tags:
-- personal
+- life
 - photography
 - programming
 ---
