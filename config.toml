@@ -1,5 +1,6 @@
 baseurl = "https://end-perform.com/"
 languageCode = "en-us"
+#theme = ["hugo-debugprint", "terminal"]
 theme = "terminal"
 paginate = 5
 
@@ -34,7 +35,7 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "archives"
-        name = "/archives"
+        name = "/blog archives"
         url = "/archives"
       [[languages.en.menu.main]]
         identifier = "tags"

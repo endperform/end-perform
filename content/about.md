@@ -8,7 +8,7 @@ I'm Brad, a 40-something IT engineer in the Atlanta area, originally from Pennsy
 as such those tend to be things I write about. I'm trying to write at least once a week. For an idea of what I write about, visit the [/tags][1] page for a list of topics.
 
 For fun, I play games (both video and board games), and write code. Currently I'm working on learning Python 3 and playing with some electronics projects. I tend to stream at 
-random times on my Twitch channel, and you can see what projects I'm working on by checking out my Gitlab profile.
+random times on my Twitch channel, and you can see what projects I'm working on by checking out my Github profile.
 
 <strong>Social Links</strong>
 <ul>
