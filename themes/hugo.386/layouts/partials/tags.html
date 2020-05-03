@@ -1,0 +1,9 @@
+{{range first 5 ($.Site.GetPage "taxonomyTerm" "tags").Pages }}
+<li>
+    <a href="{{ .Permalink }}">{{.Title}}</a>
+</li>
+{{ end }}
+<br />
+<li>
+    <a href="/tags">More tags...</a>
+</li>

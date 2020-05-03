@@ -1,5 +1,5 @@
-baseURL = "https://end-perform.com"
-title = "end-perform.com"
+baseURL = "https://example.com"
+title = "HUGO.386"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
@@ -7,22 +7,22 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "Welcome to end-perform.com"
+    mainpagetitle = "HUGO.386"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Thoughts, opinions and other things straight from /dev/random" 
+    mainpagesubtitle = "Welcome to the early 90s!" 
 
     # The name to display as main title in the home page
-    mainpagedesc = "Home base for Brad Peters, a 40-something gaming IT geek. I write about technology, gaming and my other various projects. I try to update weekly. Check out the latest from the blog or explore the site!"
+    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "Brad Peters"
+    copyrightname = "JM Fergeau"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "http://jmf-portfolio.netlify.com"
 
     # Show the "built on Hugo" disclaimer
-    showhugo = false
+    showhugo = true
 
     # Urls for social networks
     facebook = "https://facebook.com"
@@ -32,13 +32,13 @@ preserveTaxonomyNames = true
     gitlab = "https://gitlab.com"
 
     # Enables or disables the loading animations. false activates them. Default is false.
-    loadfastload = true
+    loadfastload = false
 
     # Sets the speed for the page loading effect. Default is 1.0.
     loadspeedfactor = 1.0
 
     # Enables or disables the second flyby cursor. Default is false.
-    loadonepass = true
+    loadonepass = false
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -47,16 +47,12 @@ preserveTaxonomyNames = true
     name = "About"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
     weight = 10          # A number to order the buttons in the navbar
+
   [[menu.main]]
-    identifier = "friends"
-    name = "Friends"
-    url = "/friends/"
-    weight = 10
-  [[menu.main]]
-    identifier = "photography"
-    name = "Photography"
-    url = "https://xannypix.com"
-    weight = 10
+    identifier = "posts"
+    name = "All posts"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 20
 
 [taxonomies]
 category = "categories"
@@ -64,6 +60,7 @@ tag = "tags"
 
 
 [privacy]
+
   [privacy.vimeo]
     disabled = false
     simple = true
@@ -82,6 +79,7 @@ tag = "tags"
     privacyEnhanced = true
 
 [services]
+
   [services.instagram]
     disableInlineCSS = true
 
