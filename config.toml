@@ -40,6 +40,9 @@ preserveTaxonomyNames = true
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = true
 
+[permalinks]
+    post = "/:year/:month/:title/"
+
 [menu]
   # This displays buttons in the navbar to access your contents
   [[menu.main]]
