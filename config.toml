@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "Thoughts, opinions and other things straight from /dev/random" 
 
     # The name to display as main title in the home page
-    mainpagedesc = "Home base for Brad Peters, a 40-something gaming IT geek. I write about technology, gaming and my other various projects. I try to update weekly. Check out the latest from the blog or explore the site!"
+    mainpagedesc = "I write about technology, gaming and my other various projects. I try to update weekly. Check out the latest from the blog or explore the site!"
 
     # The name to display in the copyright section in the footer
     copyrightname = "Brad Peters"
