@@ -1,0 +1,7 @@
+{{ define "main" }}
+<strong>{{ .Title }}</strong><br>
+{{ .PublishDate.Format "Jan 2, 2006" }} - {{ range .Params.tags }}#<a href="{{ (urlize (printf "tags/%s/" .)) | absLangURL }}">{{ . }}</a>&nbsp;{{ end }}
+<br/><br/>
+
+{{ .Content }}
+{{ end }}

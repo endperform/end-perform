@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<strong><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></strong><br /><br />
+
+        {{ $type := .Type }}
+        {{ range .Data.Terms.ByCount }}
+        {{ $name := .Name }}
+        {{ $count := .Count }}
+                {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+                {{ $count }} -  <a href="{{ .Permalink }}"> {{ $name }}</a><br />
+                {{ end }}
+        {{ end }}
+{{ end }}

@@ -2,7 +2,7 @@
 title: "About end-perform.com"
 ---
 <h2>Who am I?</h2>
-<center><img src="https://s.gravatar.com/avatar/e9edded97f24ea30e9c0514c53793183?s=80" align="center"></center>
+<center>{{< figure src="https://s.gravatar.com/avatar/e9edded97f24ea30e9c0514c53793183?s=80">}}</center>
 
 I'm Brad, a 40-something IT engineer in the Atlanta area, originally from Pennsylvania. I've been interested in computers and video games since I was a young child, and
 as such those tend to be things I write about. I'm trying to write at least once a week. For an idea of what I write about, visit the [/tags][1] page for a list of topics.

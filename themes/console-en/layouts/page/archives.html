@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ partial "header.html" . }}
+<body class="terminal">
+  <h1>All posts on end-perform.com</h1>
+  <div class="container">
+    {{ range (.Site.RegularPages.GroupByDate "2006") }}
+        {{ $year := .Key }}
+        {{ if ne $year  "0001" }}
+        <strong>{{ $year }}</strong><br />
+            {{ range (where .Pages "Section" "posts") }}
+                <span class="date">{{ .Date.Format "01/02/2006" }} - </span> <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
+            {{ end }}
+	    <br />
+        {{ end }}
+    {{ end }}
+
+  </div>
+</body>
+</html>
+{{ end }}

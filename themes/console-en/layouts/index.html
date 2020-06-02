@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<h1>Recent posts</h1>
+{{ $pages := .Site.RegularPages }}
+    {{ range first 3 (where $pages "Section" "=" "posts")}}
+        {{ .Date.Format "01/02/2006" }} - <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a><br />
+    {{ end }}
+{{ end }}
