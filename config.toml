@@ -24,7 +24,7 @@ preserveTaxonomyNames = true
 
 
 [permalinks]
-    post = "/:year/:month/:title/"
+    posts = "/:year/:month/:title/"
 
 [taxonomies]
 category = "categories"
