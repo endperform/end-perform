@@ -1,9 +1,8 @@
 ---
 title: Google Migration Updates
 date: 2019-06-05 23:43:47
-categories:
-- tech
 tags:
+- tech
 - privacy
 - security
 ---

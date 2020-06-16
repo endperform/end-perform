@@ -1,8 +1,6 @@
 ---
 title: Muh Comics!
 date: 2017-08-02
-categories:
-- opinion
 tags: 
 - comics
 - rant

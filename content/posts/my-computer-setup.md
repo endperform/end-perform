@@ -1,9 +1,8 @@
 ---
 title: "My Current Computing Machines"
 date: 2020-02-09
-categories: 
-- tech
 tags:
+- tech
 - mac
 - thinkpad
 ---

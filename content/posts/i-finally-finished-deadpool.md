@@ -3,7 +3,6 @@ title: "I Finally Finished: Deadpool"
 date: 2020-03-02 11:00:57
 tags:
 - i-finally-finished
-categories:
 - gaming
 ---
 This game was a blast to play. I had wanted to play this game for some time, but could not due to it being removed from Steam. I have a PS4, so I opted for a used copy of the game for that console. This game is your typical beat'em up with added Deadpool humor, including breaking the fourth wall multiple times. Weapons can be bought and upgraded along the way, and the missions were quite fun to play.  

@@ -1,9 +1,8 @@
 ---
 title: 'A Year of Vim: The Beginning'
 date: 2020-02-19 22:22:29
-categories:
-- tech
 tags:
+- tech
 - linux
 - mac
 ---

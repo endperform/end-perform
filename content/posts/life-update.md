@@ -2,8 +2,7 @@
 title: "Life Update"
 date: 2020-05-12T17:09:14-04:00
 description: ""
-tags: ["health", "updates"]
-categories: ["life"]
+tags: ["health", "life"]
 ---
 Since my last update to the site, the whole pandemic thing has come, and I've been working remote since the end of March. I'm thankful I am still employed and work seems to be going as strongly as it has been. We received notification that we do have the option to work from home until the end of the year, but they're also going to begin allowing people to return to the office. I'm not going to return until at least the fall, at the earliest. I'm just not ready, and honestly I don't think this state (Georgia) is ready for that yet.
 

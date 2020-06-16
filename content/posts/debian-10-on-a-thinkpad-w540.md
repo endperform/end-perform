@@ -1,9 +1,8 @@
 ---
 title: Debian 10 on a Thinkpad W540
 date: 2019-10-25 09:35:00
-categories:
-- tech
 tags:
+- tech
 - linux
 - thinkpad
 ---

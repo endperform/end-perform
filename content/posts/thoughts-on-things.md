@@ -3,6 +3,7 @@ title: What's Up with Things?
 date: "2018-08-13"
 categories: 
 - life
+- tech
 ---
 Contrary to popular opinion, I still exist! I'm finally getting back to a point where I can interact online and such. I've been busy with a huge project at work and it's finally over and done with. So, first thing I did was revamp the website design back to one of the older (and honestly my favorite) design and remove some of the older posts that didn't make sense to keep. My goal now is to try to write something at least once a week or so.
 

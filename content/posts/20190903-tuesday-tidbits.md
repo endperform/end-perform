@@ -1,9 +1,8 @@
 ---
 title: Tuesday Tidbits - AEW and Other Thoughts
 date: 2019-09-03 23:00:00
-categories:
-- life
 tags:
+- life
 - tuesday-tidbits
 - wrestling
 ---

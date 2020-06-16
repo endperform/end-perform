@@ -1,9 +1,8 @@
 ---
 title: Photography. It's a Thing
 date: 2018-02-24
-categories:
-- life
 tags:
+- life
 - photography
 ---
 Photography is one of my creative outlets. Contrary to what some haters (and boy I do have some haters out there) will tell you, I don't shoot photos so I can get off. Far from it. I love showcasing beauty I find in people, places and things. Most of my shoots to date have been of lovely ladies who agreed to shoot with me, and it's always been low stress, low pressure and a lot of fun to shoot. I think it helps that everyone I've shot with to date has been a friend of mine, and it shows in the shoots. Shooting photos is a stress reliever for me, and when my camera is in my hand, my cares melt away as I focus on what I'm trying to capture. I will be the first to tell you that I am not a professional by any stretch. This is strictly a hobby for me. I enjoy the images I capture, I enjoy editing them, but I think the most rewarding aspect is seeing the reactions of those I captured. That makes it all the more rewarding to me.  

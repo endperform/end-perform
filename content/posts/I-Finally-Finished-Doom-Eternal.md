@@ -3,7 +3,6 @@ title: 'I Finally Finished: Doom Eternal'
 author: ''
 tags:
   - i-finally-finished
-categories:
   - gaming
 date: 2020-03-28 16:21:00
 ---

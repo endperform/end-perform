@@ -1,9 +1,8 @@
 ---
 title: "Migrating from Google and Others"
 date: 2019-02-18
-categories:
-- tech
 tags:
+- tech
 - privacy
 - security
 ---

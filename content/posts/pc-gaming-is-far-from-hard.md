@@ -1,9 +1,8 @@
 ---
 title: PC Gaming Is Far From Hard
-categories:
-- opinion
 tags: 
 - rant
+- gaming
 date: 2016-07-13
 ---
 A site named Motherboard posted an article complaining that PC gaming is too hard. Read on for my thoughts on the matter.  

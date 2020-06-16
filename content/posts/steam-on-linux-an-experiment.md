@@ -1,8 +1,7 @@
 ---
 title: 'Steam on Linux: An Experiment'
-categories:
-- tech
-tags: 
+tags:
+- tech 
 - gaming
 - linux
 date: "2017-03-20"

@@ -1,9 +1,8 @@
 ---
 title: "Looking Ahead to 2020"
 date: 2019-12-21
-categories:
-- tech
 tags:
+- tech
 - health
 - programming
 - photography

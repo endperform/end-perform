@@ -1,9 +1,8 @@
 ---
 title: "2019 Goals"
 date: 2019-01-23
-categories:
-- life
 tags:
+- life
 - photography
 - programming
 ---

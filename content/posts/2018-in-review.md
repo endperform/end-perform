@@ -1,8 +1,9 @@
 ---
 title: '2018 in Review, The Short Version'
 date: 2018-12-26 23:52:21
-categories:
+tags:
 - life
+- year-in-review
 ---
 We're about five days out from the end of the year, and I've been somewhat quiet. Work's been pretty busy this year, and I have let a lot of things slide that I really didn't want to but time left me with no choice. 2019, though, I intend to do the things I didn't get much of a chance to do over the past year, photography being the main thing. I've got a new camera all set, and I've got lots of ideas. Keep an eye out here, or my social media to find out when I have a new shoot to share.  
 

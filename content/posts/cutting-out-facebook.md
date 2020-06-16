@@ -1,9 +1,8 @@
 ---
 title: Cutting out Facebook
 date: 2019-10-21 22:02:04
-categories:
-- tech
 tags:
+- tech
 - privacy
 ---
 Facebook of late has been in the news with regards to privacy issues and political ads. My Facebook feed these days I would say is about 80-90% images and memes. Nothing against friends and family that post on Facebook, I'm just done with that method of communication. I intend to keep Messenger, and I'll post pictures of the minion (otherwise the family might have issues), but most of my focus will shift to Twitter, here and now that I'm getting back into photography, I'll be getting that site back up and running soon.

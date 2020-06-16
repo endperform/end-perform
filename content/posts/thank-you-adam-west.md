@@ -1,8 +1,6 @@
 ---
 title: 'Thank You, Adam West'
 date: 2017-06-29
-categories:
-- general
 tags: 
 - comics
 ---

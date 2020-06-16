@@ -1,9 +1,8 @@
 ---
 title: VPNs and a Review
 date: 2018-08-29
-categories:
-- tech
 tags: 
+- tech
 - privacy
 - security
 ---

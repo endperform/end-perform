@@ -1,8 +1,6 @@
 ---
 title: 'My Favorites: Penny Underbust'
 date: 2016-08-15
-categories:
-- opinion
 tags: 
 - my-favorites
 ---

@@ -1,9 +1,8 @@
 ---
 title: "Tuesday Tidbits - Projects!"
 date: 2019-11-12
-categories:
-- tech
 tags:
+- tech
 - tuesday-tidbits
 - projects
 ---

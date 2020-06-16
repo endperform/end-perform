@@ -2,7 +2,6 @@
 title: Fun Times at the Fox
 tags:
   - friends
-categories:
   - life
 date: 2020-03-08 22:21:00
 description: "My first visit to the Fabulous Fox Theatre"

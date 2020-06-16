@@ -1,8 +1,6 @@
 ---
 title: "Ghostbusters: Afterlife Trailer Thoughts"
 date: 2019-12-09
-categories:
-- life
 tags:
 - movies
 ---
