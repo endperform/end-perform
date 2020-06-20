@@ -1,5 +1,5 @@
 ---
-title: "About end-perform.com"
+title: "About endperform.com"
 ---
 <h2>Who am I?</h2>
 <center>{{< figure src="https://s.gravatar.com/avatar/e9edded97f24ea30e9c0514c53793183?s=80">}}</center>

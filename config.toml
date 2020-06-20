@@ -1,5 +1,5 @@
-baseURL = "https://end-perform.com"
-title = "blog@end-perform.com"
+baseURL = "https://endperform.com"
+title = "blog@endperform.com"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "console-en"
