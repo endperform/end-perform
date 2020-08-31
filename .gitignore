@@ -2,3 +2,4 @@ public
 .DS_Store
 themes/hugo-debugprint
 *.old
+Taskfile.yml
