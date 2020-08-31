@@ -1,6 +1,6 @@
 ---
 title: 'Life Update: July 2020'
-date: 2020-06-30
+date: 2020-08-06
 tags:
 - life
 - monthly-update
