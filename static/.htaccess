@@ -1,4 +1,6 @@
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
+RewriteCond %{HTTP_HOST} ^endperform\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.endperform\.com$
+RewriteRule ^/?$ "https\:\/\/endperform\.com\/" [R=301,L]
