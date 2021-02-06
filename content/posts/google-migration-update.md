@@ -1,11 +1,8 @@
----
-title: Google Migration Updates
-date: 2019-06-05 23:43:47
-tags:
-- tech
-- privacy
-- security
----
++++
+title = "Google Migration Updates"
+date = 2019-06-05
+tags = ["tech", "privacy", "security"]
++++
 *Sorry for the long break in posts, life happens. :)*  
 
 My migration away from Google for most things is pretty much complete at this point. I'll go through each service and explain my replacement.

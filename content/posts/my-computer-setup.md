@@ -1,12 +1,8 @@
----
-title: "My Current Computing Machines"
-date: 2020-02-09
-tags:
-- tech
-- mac
-- thinkpad
----
-
++++
+title = "My Current Computing Machines"
+date = 2020-02-09
+tags = ["tech", "thinkpad"]
++++
 If you've been following me on [Twitter][1], you'll notice I've been talking a bit more about Macs lately because I've added a 2014 Mac Mini to my computing stable, as it were. I wrote about it a bit in my previous post, saying I was going to give it a month and decide if I would be using it for my main machine and having the PC remain as the photo editing and gaming rig. Well, given how awesome Mac OS has been, I'm keeping this device around. All my personal computing (finance, social media, coding) will be done from here, and the PC will remain as a photo editing, gaming and streaming machine.   
 
 With that said, I now have all three major operating systems represented, so let me go into a little about what each machine is, and its purpose in life:

@@ -1,9 +1,8 @@
----
-title: "Ghostbusters: Afterlife Trailer Thoughts"
-date: 2019-12-09
-tags:
-- movies
----
++++
+title = "Ghostbusters: Afterlife Trailer Thoughts"
+date = 2019-12-09
+tags = ["movies"]
++++
 I checked out the trailer this morning as soon as it dropped (shh, don't tell
 the boss!) and the movie looks like it's going to be great. I was half-expecting
 the farmhouse to be one of the living Ghostbusters' (Ray specifically), but

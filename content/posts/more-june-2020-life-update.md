@@ -1,10 +1,8 @@
----
-title: 'Life Update: June 2020'
-date: 2020-06-30
-tags:
-- life
-- monthly-update
----
++++
+title = "Life Update: June 2020"
+date = 2020-06-30
+tags = ["life", "monthly-update"]
++++
 For the month of June, I had the following goals:
 
 * Finish up re-edits of old photos and post to the [photography website][1]

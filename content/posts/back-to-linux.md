@@ -1,10 +1,8 @@
----
-title: Back to Linux
-date: 2019-07-12 00:12:54
-tags:
-- linux
-- tech
----
++++
+title = "Back to Linux"
+date = 2019-07-12
+tags = ["linux", "tech"]
++++
 On Monday, I wiped my main drive of Windows and installed Linux (Arch, if you'd like specifics) after taking a couple of weeks to do some research with regards to what I would miss by moving to Linux as my main operating system. Since others may be interested in what I ended up doing, I figured I would write about how I went about this.
 
 Windows 10 was working alright for me, but it was getting to be a bit annoying at times and I wanted to be able to jump into some projects head-first. Sure, there's WSL or VMs, both of which I tried for some time, but they didn't seem to really fit. Trying to keep Windows software updated was a bit of a process, and trying to corral files in different places was getting to me. So, the research began into what it would take to convert. 
@@ -29,6 +27,6 @@ My desktop PC has an NZXT Kraken X62 CPU cooler which has Windows control softwa
 ### Conclusion  
 The switch wasn't bad at all. The things I need to work, do. I'm not going to be one of those obnoxious Linux users that turns their nose up at someone using Windows. I'm all about using the tools that are best for you. If that's Windows, awesome! If that's Mac or Linux? Also awesome!.
 
-[1]: https://twitch.tv/xannygeeksout
+[1]: https://twitch.tv/justxanny
 [2]: https://obsproject.com/
 [3]: https://gitlab.com/leinardi/gkraken

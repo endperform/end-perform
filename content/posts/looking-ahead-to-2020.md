@@ -1,12 +1,8 @@
----
-title: "Looking Ahead to 2020"
-date: 2019-12-21
-tags:
-- tech
-- health
-- programming
-- photography
----
++++
+title = "Looking Ahead to 2020"
+date = 2019-12-21
+tags = ["tech", "health", "programming", "photography"]
++++
 2019 is over in about two weeks, and rather than look back at 2019, I'm looking
 ahead to 2020 at some things I want to accomplish. 2019 in general was okay, but
 there are a lot of things I fell short on. Again, rather than dwell on that,

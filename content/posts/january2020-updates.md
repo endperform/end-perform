@@ -1,13 +1,8 @@
----
-title: "2020: Rough Starts and Moving Forward"
-date: 2020-01-26
-categories:
-tags:
-- life
-- health
-- updates
----
-
++++
+title = "2020: Rough Starts and Moving Forward"
+date = 2020-01-26
+tags = ["life", "health", "updates"]
++++
 Sorry for the silence lately, but the start of the year had some health issues pop up. Long story short, the last week of the year I spent a few days in the hospital which uncovered a heart issue. Fun stuff, I know. Long story short, some diet changes and a few cardiologist appointments later and I'll be in good shape. So, there's the rough start. 
 
 Now, moving forward. I've got a few things cooking to write about in the coming weeks. First, I've decided to try (Neo)Vim for a year instead of using Emacs. I plan on writing a monthly progress report about what I'm using it for and how it's going. 

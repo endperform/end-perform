@@ -1,11 +1,8 @@
----
-title: 'Adjusting to Windows for Work'
-date: 2020-06-16
-tags:
-- linux
-- windows
-- tech
----
++++
+title = "Adjusting to Windows for Work"
+date = 2020-06-16
+tags = ["linux", "windows", "tech"]
++++
 Moving from a Linux desktop to a Windows laptop has been an interesting experience as far as work goes. 99% of what I do is Linux-based, so this change by the powers-that-be is an interesting one. I can see where they're coming from, being firmly a Windows shop, but I was hoping we could go a few more years, or at least have the option to install Linux on the new hardware they gave us. Sadly, that wasn't an option, so I set out to make the environment as useful as possible. Here's what I've tried so far.
 
 ### Hyper-V

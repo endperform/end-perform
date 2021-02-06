@@ -1,10 +1,8 @@
----
-title: Muh Comics!
-date: 2017-08-02
-tags: 
-- comics
-- rant
----
++++
+title = "Muh Comics!"
+date = 2017-08-02
+tags = ["comics", "rant"]
++++
 I'm sure by now you might have seen something with regards to a female Marvel Comics editor out with [some coworkers getting a milkshake][1], right? It seems innocent enough, but apparently there are some very, very fragile males out there that took the opportunity to take a shit all over something that is, well, just a normal everyday scene. But, because it was an all-female gathering, it must be some sort of protest or other nefarious thing, right? Men (and I'll use that term loosely with regards to the filth this poor woman has had to endure), get a grip. There are in fact women who can do the things we can do, and yes, can do those things even better. I've got news for you, sexual identification is in no way an indication on whether or not someone is good at something or not. It also is not an indication on whether or not someone is a 'fake' geek, or other worse assumptions.
 
 *Oh Xanny, you're now an SJW, aren't you? You're a feminist prick!*  

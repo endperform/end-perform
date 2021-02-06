@@ -1,10 +1,8 @@
----
-title: 'I Finally Finished: Steamworld Dig'
-date: 2018-01-29
-tags:
-- gaming
-- i-finally-finished
----
++++
+title = "I Finally Finished: Steamworld Dig"
+date = 2018-01-29
+tags = ["gaming", "i-finally-finished"]
++++
 I've had this game in my Steam library for some time now, and I finished my first playthough of it. So what is it? The developers outline it pretty well:  
 
 > SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below

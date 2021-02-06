@@ -1,11 +1,8 @@
----
-title: "2019 Goals"
-date: 2019-01-23
-tags:
-- life
-- photography
-- programming
----
++++
+title = "2019 Goals"
+date = 2019-01-23
+tags = ["life", "photography", "programming"]
++++
 2019 is upon us, and with it comes the usual goal listing for the year. Yes, I'm late to posting this but better late than never, right? Anyway, I've finished putting a fresh coat of paint on the website, and now it's time to get down to writing. So, what are my goals for 2019?  
 
 **Programming**  

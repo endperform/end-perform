@@ -1,10 +1,8 @@
----
-title: Rocket League Weekly Stats and Updates
-date: 2020-08-30
-tags:
-- gaming
-- updates
----
++++
+title = "Rocket League Weekly Stats and Updates"
+date = 2020-08-30
+tags = ["gaming", "updates"]
++++
 ### Rocket League
 I had stopped playing Rocket League for a while because I was tired of the people disconnecting or just in general being trolls. I was sitting at level 970, and now I've opted to play until I hit level 1000 and finish up there. So, until that happens, I'm keeping track of matches I play, and keeping track of the number of games someone either trolls, or spouts slurs or other garbage and keeping stats on that. So I present to you:
 

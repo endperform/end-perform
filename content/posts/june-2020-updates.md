@@ -1,8 +1,8 @@
----
-title: "Life Update: May 2020"
-date: 2020-06-09
-tags: ["life", "monthly-update"]
----
++++
+title = "Life Update: May 2020"
+date = 2020-06-09
+tags = ["life", "monthly-update"]
++++
 *This is my monthly update for what's been happening with me and what I've been working on*  
 
 May was month three (technically 2.5) of working from home. In that time, I received a new corporate laptop which allowed me to remove anything work related from my personal desktop. Unfortunately that also resulted in a need to perform a fresh install of Windows. I might not have needed to do so, but I didn't want any 'work residue' on my personal gear now that I have a corporate-issued machine at home. The laptop unfortunately also ushers in the end of the Linux-based workstations our group uses, as corporate is quite entrenched in Windows. I make it work, though. It has enough horsepower to run a couple of VMs and not impede me in any way. Georgia began the process of reopening some places of business, such as hair salons, barber shops, tattoo parlors and restaurants with certain restrictions. Personally I'm not ready to go back into those places just yet and I'm curious to see what happens to the infection numbers once they come out.

@@ -1,11 +1,8 @@
----
-title: Con Season Is Coming
-date: 2018-04-04 15:04:31
-tags:
-- life
-- conventions
-- rant
----
++++
+title = "Con Season Is Coming"
+date = 2018-04-04
+tags = ["life", "conventions", "rant"]
++++
 Convention season here in the southeast is beginning to spin up again and I wanted to take some time to discuss something very important. Consent. I've heard horror stories from friends of mine about consent violations in the past and I've been actively trying to keep an eye out and prevent these things from happening. It's super-simple, really. If you don't know someone, don't do it. It can be a touch or taking a photo. Ask first, always. If it's someone you hardly know, but they said yes previously, ask again to be sure. They may not be as comfortable as last time due to any number of reasons. Don't assume that just because you saw someone hugging someone else that you can just walk right up and do the same. That's not how it works.  
 
 Also: COSPLAY IS NOT CONSENT. I don't care how awesome you think someone's costume is, or how much you have a crush on Catwoman, you have exactly ZERO right to touch someone who has not given you explicit permission to do so. Doing so will (hopefully) result in you getting tossed from the convention. There's no place for that.  

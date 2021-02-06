@@ -1,5 +1,5 @@
 baseURL = "https://endperform.com"
-title = "blog@endperform.com"
+title = "endperform.com"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "console-en"
@@ -7,24 +7,20 @@ preserveTaxonomyNames = true
 
 [params]
   [[params.navlinks]]
-  name = "about"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "all posts"
+  name = "/blog"
   url = "archives/"
 
   [[params.navlinks]]
-  name = "friends"
+  name = "/friends"
   url = "friends/"
 
   [[params.navlinks]]
-  name = "tags"
+  name = "/tags"
   url = "tags/"
 
 
 [permalinks]
-    posts = "/:title/"
+    posts = "/:year/:title/"
 
 [taxonomies]
 category = "categories"

@@ -1,10 +1,8 @@
----
-title: 'Life Update: July 2020'
-date: 2020-08-06
-tags:
-- life
-- monthly-update
----
++++
+title = "Life Update: July 2020"
+date = 2020-08-06
+tags = ["life", "monthly-update"]
++++
 Another month has come and gone, and like I do, I'm posting how the previous month went with regards to what I got done and the goals I set out for myself.
 
 For the month of July, I set the following goals for myself:

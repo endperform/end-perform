@@ -3,7 +3,6 @@
 {{ partial "header.html" . }}
 <body class="terminal">
   <h1>All posts on end-perform.com</h1>
-  <div class="container">
     {{ range (.Site.RegularPages.GroupByDate "2006") }}
         {{ $year := .Key }}
         {{ if ne $year  "0001" }}
@@ -14,8 +13,6 @@
 	    <br />
         {{ end }}
     {{ end }}
-
-  </div>
 </body>
 </html>
 {{ end }}

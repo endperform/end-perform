@@ -1,10 +1,8 @@
----
-title: PC Gaming Is Far From Hard
-tags: 
-- rant
-- gaming
-date: 2016-07-13
----
++++
+title = "PC Gaming Is Far From Hard"
+date = 2016-07-13
+tags = ["rant", "gaming"]
++++
 A site named Motherboard posted an article complaining that PC gaming is too hard. Read on for my thoughts on the matter.  
 
 Recently, the subsite Motherboard at vice.com published an article entitled [PC Gaming Is Still Way Too Hard][1], in which the author complains that trying to build a gaming rig is far too expensive and time consuming for the average person. From the first paragraph:

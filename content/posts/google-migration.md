@@ -1,11 +1,8 @@
----
-title: "Migrating from Google and Others"
-date: 2019-02-18
-tags:
-- tech
-- privacy
-- security
----
++++
+title = "Migrating from Google and Others"
+date = 2019-02-18
+tags = ["tech", "privacy", "security"]
++++
 Google used to be all about "Don't be evil", however now with their size, that's not really a thing for them any longer. I've been slowly migrating things away from Google as I've gotten the chance to do so, not just because of this, but in order to have better control over my data and my email.
 
 **Email and contacts from Google to my own domain**  
