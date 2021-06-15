@@ -1,5 +1,6 @@
 ---
-title: "Friends of end-perform.com"
+title: Friends of endperform.com
+
 ---
 I wanted a way to support friends of mine and their endeavours, so below you'll
 find a list of links to some of my friends' sites and/or Facebook pages. Some
