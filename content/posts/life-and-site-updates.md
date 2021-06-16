@@ -12,7 +12,9 @@ One thing I did manager to get re-launched was my Twitch channel:
 One thing I finally got around to doing was launching my Twitch channel going again. I proudly present to you:
 
 <center> ![XannyTV Logo](/img/xannytv_logo_small.jpg)
+  
   [XannyTV!](https://twitch.tv/justxannytv)
-  </center>
+ 
+</center>
   
   I stream Monday and Thursdays starting at 8pm eastern, playing mostly older games and occasionally doing a technical stream. Check it out if you can!
