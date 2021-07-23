@@ -1,5 +1,5 @@
-baseURL = "https://blog.eightbit.website"
-title = "blog.eightbit.website"
+baseURL = "https://eightbit.website"
+title = "eightbit.website"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "console-en"
