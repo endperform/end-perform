@@ -2,7 +2,7 @@
 
 {{ partial "header.html" . }}
 <body class="terminal">
-  <h1>All posts on end-perform.com</h1>
+  <h1>All posts on eightbit.website</h1>
     {{ range (.Site.RegularPages.GroupByDate "2006") }}
         {{ $year := .Key }}
         {{ if ne $year  "0001" }}

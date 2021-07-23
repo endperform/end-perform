@@ -1,5 +1,5 @@
-baseURL = "https://endperform.com"
-title = "endperform.com"
+baseURL = "https://blog.eightbit.website"
+title = "blog.eightbit.website"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "console-en"
@@ -20,7 +20,7 @@ preserveTaxonomyNames = true
 
 
 [permalinks]
-    posts = "/:year/:title/"
+    posts = "/:title/"
 
 [taxonomies]
 category = "categories"
