@@ -1,7 +1,7 @@
 +++
 date = 2021-09-09T00:00:00Z
 tags = ["health", "updates"]
-title = "Life Update: 09/08/2021"
+title = "Life Update: September 9 2021"
 
 +++
 Sorry for the lack of updates lately, life has been pretty darn busy between work and family life. On the health front, my heart is doing a lot better. I switched heart doctors and this one actually listened to me. Long story short, I went in for a cardioversion and I'm happy to report my heart is now beating in a normal rhythm again. 
